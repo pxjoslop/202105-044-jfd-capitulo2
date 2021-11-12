@@ -1,2 +1,2 @@
-# Capitulo2
+# capitulo2
 Capítulo 2 de Java Fundamentals
